@@ -1,0 +1,252 @@
+<?php include('header.php');
+?>
+	<!--====== HEADER PART ENDS ======-->
+   
+    <!--====== SEARCH BOX PART START ======-->
+    
+    <div class="search-box">
+        <div class="serach-form">
+            <div class="closebtn">
+                <span></span>
+                <span></span>
+            </div>
+            <form action="#">
+                <input type="text" placeholder="Search by keyword">
+                <button><i class="fa fa-search"></i></button>
+            </form>
+        </div> <!-- serach form -->
+    </div>
+    
+    <!--====== SEARCH BOX PART ENDS ======-->
+   
+    <!--====== PAGE BANNER PART START ======-->
+    
+    <section id="page-banner" class="pt-105 pb-50" data-overlay="8" style="background-color:#2F4F4F">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="page-banner-cont">
+                        <h2>Our Educators</h2>
+                        
+                    </div>  <!-- page banner cont -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== PAGE BANNER PART ENDS ======-->
+   
+    <!--====== TEACHERS PART START ======-->
+    
+    <section id="teachers-page" class="pt-30 pb-120 gray-bg">
+        <div class="container">
+           <div class="row">
+               <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-1.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                           <h6>Mr. Rajesh Tiwari</h6>
+                            <span>Principal</span><br>
+							<span>MA,B.ED</span><br>
+							<span>24 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+               <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-2.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms. Sakshi Bajaj</h6>
+                            <span>Co-ordiator</span><br>
+							<span>M.sc,RKCL</span><br>
+							<span>7 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+               <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-3.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                             <h6>Ms. Seema Pandiya</h6>
+                            <span>TGT</span><br>
+							<span>M.A, CTET, B.Ed</span><br>
+							<span>8 yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+               
+               <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-5.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms.Ishali Vyas</h6>
+                            <span>PRT</span><br>
+							<span>MBA,B.SC,BLIS</span><br>
+							<span>3 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+               <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-6.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms.Poonam Dogra</h6>
+                            <span>TGT</span><br>
+							<span>M.A,B.ED</span><br>
+							<span>11 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+               <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-7.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms.Bharti Purohit</h6>
+                            <span>PRT</span><br>
+							<span>B.A,B.ED</span><br>
+							<span>7 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+               
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-9.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                       <div class="cont">
+                            <h6>Ms.Jaijaaiwanti Acharya</h6>
+                            <span>PRT</span><br>
+							<span>B.A,B.ED</span><br>
+							<span>2 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-10.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                       <div class="cont">
+                            <h6>Ms.Mamta Swami</h6>
+                            <span>Mother Teacher</span><br>
+							<span>MBA,M.Com,Diploma in Library</span><br>
+							<span>4 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-11.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                       <div class="cont">
+                            <h6>Ms.Shivani Sardana</h6>
+                            <span>Computer Teacher</span><br>
+							<span>MCA</span><br>
+							<span>2 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-12.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                       <div class="cont">
+                            <h6>Ms.Kusum Purohit</h6>
+                            <span>TGT</span><br>
+							<span>MA,B.ED</span><br>
+							<span>13 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-13.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                       <div class="cont">
+                            <h6>Mr.Mohit Swami</h6>
+                            <span>TGT</span><br>
+							<span>Net, MA, B.Ed</span><br>
+							
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			    <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-14.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms. Sandhya Purohit</h6>
+                            <span>TGT</span><br>
+							<span>Net, MA, B.Ed</span><br>
+							<span>12 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-15.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms. Sunita Vyas</h6>
+                            <span>PRT</span><br>
+							<span>M.sc,M.Phil</span><br>
+							<span>3 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			   <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/t-16.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Ms. Sharda Rathi</h6>
+                            <span>PRT</span><br>
+							<span>B.Com, Pre B.Ed</span><br>
+							<span>12 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               </div>
+			  <!-- <div class="col-lg-3 col-sm-6">
+                   <div class="singel-teachers mt-30 text-center">
+                        <div class="image">
+                            <img src="images/teachers/tc-1.jpg" alt="Teachers" width="200" height="230">
+                        </div>
+                        <div class="cont">
+                            <h6>Mr. Ankur</h6>
+                            <span>TGT</span><br>
+							<span></span><br>
+							<span>12 Yrs</span>
+                        </div>
+                    </div> <!-- singel teachers -->
+               <!--</div> -->
+			   
+           </div> <!-- row -->
+           
+			
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== TEACHERS PART ENDS ======-->
+   
+<?php
+include('footer.php');
+?>
