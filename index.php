@@ -241,7 +241,7 @@ Step in the right direction increase the chances of success.<br><br>
 <h5><b>Dedication</b><br></h5>
 Devoting oneself for accomplishment of goals.<br><br>
 
-<img class="rounded mb-3" src="https://srv671-files.hstgr.io/b34e3f23bde8727c/files/public_html/images/slider/s-8.jpg" alt="" width="100%" height="300px">
+<img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="300px">
                        
                         <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/ujp6oexZx7c?si=-tQTDYbn_HGp_VPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
                         <!--<img src="images/about/bg-1.png" alt="About">-->
@@ -254,7 +254,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
                     <h3>Smart Class</h3><br>
-                    <img class="rounded mb-3" src="https://srv671-files.hstgr.io/b34e3f23bde8727c/files/public_html/images/slider/s-8.jpg" alt="" width="100%" height="150px">
+                    <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
                     <p>A lesson well Caught is a lesson well taught , with the sincere mission to transport MPSites to the opulant shore of learning, to endow are MPSites with the Zest and zeal for knowledge to make teaching learning experience enjoyable and meaningful</p>
                     <button class="btn btn-primary mt-3">Read More</button>
                     <!-- <br>
@@ -271,7 +271,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
                     <h3>Smart Class</h3><br>
-                    <img class="rounded mb-3" src="https://srv671-files.hstgr.io/b34e3f23bde8727c/files/public_html/images/slider/s-8.jpg" alt="" width="100%" height="150px">
+                    <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
                     <p>A lesson well Caught is a lesson well taught , with the sincere mission to transport MPSites to the opulant shore of learning, to endow are MPSites with the Zest and zeal for knowledge to make teaching learning experience enjoyable and meaningful</p>
                     <button class="btn btn-primary mt-3">Read More</button>
                     </div>
@@ -279,7 +279,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
                     <h3>Smart Class</h3><br>
-                    <img class="rounded mb-3" src="https://srv671-files.hstgr.io/b34e3f23bde8727c/files/public_html/images/slider/s-8.jpg" alt="" width="100%" height="150px">
+                    <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
                     <p>A lesson well Caught is a lesson well taught , with the sincere mission to transport MPSites to the opulant shore of learning, to endow are MPSites with the Zest and zeal for knowledge to make teaching learning experience enjoyable and meaningful</p>
                     <button class="btn btn-primary mt-3">Read More</button>
                     </div>
@@ -287,7 +287,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
                     <h3>Smart Class</h3><br>
-                    <img class="rounded mb-3" src="https://srv671-files.hstgr.io/b34e3f23bde8727c/files/public_html/images/slider/s-8.jpg" alt="" width="100%" height="150px">
+                    <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
                     <p>A lesson well Caught is a lesson well taught , with the sincere mission to transport MPSites to the opulant shore of learning, to endow are MPSites with the Zest and zeal for knowledge to make teaching learning experience enjoyable and meaningful</p>
                     <button class="btn btn-primary mt-3">Read More</button>
                     </div>
