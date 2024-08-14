@@ -256,6 +256,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                     <h4>Smart Class</h4><br>
                     <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
                     <p>A lesson well Caught is a lesson well taught , with the sincere mission to transport MPSites to the opulant shore of learning, to endow are MPSites with the Zest and zeal for knowledge to make teaching learning experience enjoyable and meaningful</p>
+                    <p class="d-none">A lesson well Caught is a lesson well taught , with the sincere mission to transport MPSites to the opulant shore of learning, to endow are MPSites with the Zest and zeal for knowledge to make teaching learning experience enjoyable and meaningful</p>
                     <button class="btn btn-primary mt-3">Read More</button>
                     <!-- <br>
                     <p>MPS caters to the students the best of the qualities . Digital panels have been introduced in the classes to make the classes tech savvy , to ensure better understanding of me topics through visual aids to make learning more realistic and interesting</p> -->
