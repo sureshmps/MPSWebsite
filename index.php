@@ -249,7 +249,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 </div>
             </div> <!-- row -->
             <div class="mt-4 pt-4">
-                <h3 class="mb-4">Infrastructural Highlights</h3>
+                <h3 class="mb-4">Infrastructural Highlight</h3>
             <div class="row ">
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
