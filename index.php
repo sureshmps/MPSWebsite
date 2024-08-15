@@ -249,7 +249,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 </div>
             </div> <!-- row -->
             <div class="mt-4 pt-4">
-                <h3 class="mb-4">Infrastructural Highlight</h3>
+                <h3 class="mb-4">Infrastructural Highlights</h3>
             <div class="row ">
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
@@ -281,7 +281,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
                     <h4>Library</h4><br>
-                    <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
+                    <img class="rounded mb-3" src="images/Front/s-3.jpg" alt="" width="100%" height="150px">
                     <p>“Infinite Possibilities under one roof”.<br> The library at MPS has a treasure of more than 4500 books...</p>
                     <p class="d-none">“Infinite Possibilities under one roof”.<br> The library at MPS has a treasure of more than 4500 books which provide immense academic support to MPSites as well as facuty members. In addition to their classroom teaching, the school library also server as a learning space for MPSites to do independent work, expand their learning and compare study materials in different books.</p>
                     <button class="btn btn-primary mt-3" id="readMore">Read More</button>
@@ -290,7 +290,7 @@ Devoting oneself for accomplishment of goals.<br><br>
                 <div class="col-md-3">
                     <div class="p-3 rounded border shadow">
                     <h4>Sports</h4><br>
-                    <img class="rounded mb-3" src="images/slider/s-8.jpg" alt="" width="100%" height="150px">
+                    <img class="rounded mb-3" src="images/Front/s-2.jpg" alt="" width="100%" height="150px">
                     <p>Sports do not build character, they reveal it”<br>Sports help students to face the challenging part of life. Any...</p>
                     <p class="d-none">Sports do not build character, they reveal it”<br>Sports help students to face the challenging part of life. Any form of sport  enhances the physical and mental abilities of students so they can continue their journey toward the goal. With indoor & outdoor games, we teach MPSites different life lessons like teamwork, accountability, self confidences responsibility and self discipline. We offer training in following sports Basketball, Handball, Badminton, Table Tennis, Chess , Yoga , Skipping</p>
                     <button class="btn btn-primary mt-3" id="readMore">Read More</button>
