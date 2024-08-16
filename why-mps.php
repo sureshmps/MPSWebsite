@@ -57,15 +57,15 @@
                                 Academic Excellence
 </h1><br><p>MPSites excel in the fields they enter. Our Holistic development programmes and are appropriate academic curriculum help them win several laurels every year one of the fundamental pillar of academic excellence is the creation of a supportive learning environment. We prioritize small class sizes, personalized attention and student-centered teaching approaches.</p><br>
 <h1>
-                                MPS Advantage<br>
-</h1><br><p>
+                                MPS Advantage<br><br>
+</h1>
 <h6>A Cosmopolitan community </h6>
-MPs Bikaner has been designed for grooming global citizens. Our facilitators , students & Parents develop a strong partnership, so our academic programmers flow in the pattern of both fu and success.<br>
+MPS Bikaner has been designed for grooming global citizens. Our facilitators , students & Parents develop a strong partnership, so our academic programmers flow in the pattern of both fu and success.<br><br>
 <h6>Focus on Holistic learning</h6>
-MPS encourages its students to be self-learners. As a school, we inspire them to emerge as responsible citizens who have a vision for the world and its well-being. Our holistic programs inculcate in them a range of skills that are not limited to academics.
+MPS encourages its students to be self-learners. As a school, we inspire them to emerge as responsible citizens who have a vision for the world and its well-being. Our holistic programs inculcate in them a range of skills that are not limited to academics.<br><br>
 
 <h6>The Teaching Experience</h6>
-Our Well-qualified and experienced teachers create  self-cultivating environment which is beneficial to the learners As mentors, the teachers promote critical thinking, subsequently stimulating innovation and creativity.
+Our Well-qualified and experienced teachers create  self-cultivating environment which is beneficial to the learners As mentors, the teachers promote critical thinking, subsequently stimulating innovation and creativity.<br><br>
 <h6>The Unique Campus</h6>
 MPS Campus is fully equipped with digital learning facilities and provision for indoor and outdoor games, vicious clubs, dance music and art.
 </P><br><br>
