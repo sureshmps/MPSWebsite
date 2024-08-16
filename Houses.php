@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="page-banner-cont">
-                        <h2>House Information</h2>
+                        <h2>Why MPS</h2>
                         <!--
 						<nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
@@ -53,20 +53,27 @@
 						
                        
 						<p>
-						    House activity is a unique set up under which the students from each class are equally divided into four groups. Each group is assigned a house which are named after the four major rivers of different regions of India and are also represented by a specific colour. These rivers symbolize the rich cultural heritage and development of Indian civilisation. Each house is guided by a House teacher and lead by a house captain. House is allotted to all students from grades I to IX.<br><br>
+						    <h1>
+                                Academic Excellence
+</h1><br><p>MPSites excel in the fields they enter. Our Holistic development programmes and are appropriate academic curriculum help them win several laurels every year one of the fundamental pillar of academic excellence is the creation of a supportive learning environment. We prioritize small class sizes, personalized attention and student-centered teaching approaches.</p><br>
+<h1>
+                                MPS Advantage<br>
+</h1><br><p>
+<h6>A Cosmopolitan community </h6>
+MPs Bikaner has been designed for grooming global citizens. Our facilitators , students & Parents develop a strong partnership, so our academic programmers flow in the pattern of both fu and success.<br>
+<h6>Focus on Holistic learning</h6>
+MPS encourages its students to be self-learners. As a school, we inspire them to emerge as responsible citizens who have a vision for the world and its well-being. Our holistic programs inculcate in them a range of skills that are not limited to academics.
 
- 
-
-The school observes the following four houses:<br>
-
-LEGENDS – (Red)<br>
-SUPREMES – (Blue))<br>
-MAESTROS –(Yellow)<br>
-ROCKERS – (Green)<br>
- 
-
-Many Inter House competitions are organized under this set up to encourage a sense of healthy competition amongst the students. A specific day of the week is allocated to such house activities. Each house is allocated a duration in the academic calendar, for which it is supposed to conduct the special assemblies along with other activities & competitions.  This practice tends to provide an equal platform to all the students in order to nurture and showcase their inherit talents. Hundred percent student participation is ensured by organizing a plethora of inter house activities in order to celebrate various festivals within the school. The conception of the whole idea was envisioned to achieve unity of participation and uniform growth amongst all the students.
-						</p>
+<h6>The Teaching Experience</h6>
+Our Well-qualified and experienced teachers create  self-cultivating environment which is beneficial to the learners As mentors, the teachers promote critical thinking, subsequently stimulating innovation and creativity.
+<h6>The Unique Campus</h6>
+MPS Campus is fully equipped with digital learning facilities and provision for indoor and outdoor games, vicious clubs, dance music and art.
+</P><br><br>
+<h1>
+                                Happy School
+</h1>
+<p>The School opens an alternative approach to improving learning experiences by prioritizing happiness. By focusing on wellbeing, engagement and sense of belonginess at school, our academic programs helps poster a lifelong love of learning. We present our students environment where they feel welcomed, satisfied, secure and can be what they are.</p>
+                            
                     </div> <!-- section title -->
                     <div class="about-cont">
 					

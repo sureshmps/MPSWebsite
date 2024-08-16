@@ -216,7 +216,7 @@
                                         </ul>
                                     </li>-->
 									<li class="nav-item">
-                                        <a href="#Academics" target="_blank">Why MPS</a>
+                                        <a href="Houses.php" target="_blank">Why MPS</a>
                                         <ul class="sub-menu">
                                             <li><a href="admn.php" target="_blank">Academic Excellence</a></li>
                                             <li><a href="Teacher List 2024-25.pdf" target="_blank">MPS Advantage</a></li>
