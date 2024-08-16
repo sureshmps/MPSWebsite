@@ -251,7 +251,7 @@
                                             
                                         
                                     <li class="nav-item">
-                                        <a href="">Mandatory Disclosure</a>
+                                        <a href="mandatory-disclosure">Mandatory Disclosure</a>
                                         <ul class="sub-menu">
                                             <li><a href="documents">CBSE Document</a></li>
 											<li><a href="documents/books_list.pdf" target="_blank">Precribed Books As Per Norms </a></li>
