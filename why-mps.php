@@ -21,7 +21,7 @@
    
     <!--====== PAGE BANNER PART START ======-->
     
-    <section id="page-banner" class="pt-105 pb-110" data-overlay="8" style="background-color:#2F4F4F">
+    <section id="page-banner" class="pt-40 pb-40" data-overlay="8" style="background-color:#2F4F4F">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

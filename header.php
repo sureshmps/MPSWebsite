@@ -226,7 +226,7 @@
                                         </ul>
                                     </li>
 									  <li class="nav-item">
-                                        <a href="curriculum">Education For Life</a>
+                                        <a href="education-for-life">Education For Life</a>
                                         <ul class="sub-menu">
                                             <li><a href="club.php" target="_blank">Academics </a></li>
                                             <li><a href="Houses.php" target="_blank">Star Maker</a></li>
