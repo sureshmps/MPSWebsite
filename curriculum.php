@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="page-banner-cont">
-                        <h2>Co-curricular Activities</h2>
+                        <h2>Education For Life</h2>
                         <!--
 						<nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
@@ -51,41 +51,7 @@
                 <div class="">
 
                     <div class="about-cont">
-                        <p>Co-curricular activities facilitate the development of various domains of
-							mind and personality such as intellectual development, emotional
-							development, social development, moral development, and aesthetic
-							development. Creativity, Enthusiasm, and Energetic, Positive thinking
-							are some of the facets of personality development and the outcomes
-							of Extracurricular activities.</p>
-						<p>co-curricular activities are complementary to each other and deserve equal
-						weight and emphasis while planning the total school program during a full session.This will develop a sense of adjustment in the personality of the students as they learn to adjust
-						emotionally, mentally, socially, and physically through these activities.</p><br>
-						<b>Co-curricular activities in School:</b><br>
-						 <ul class="pl-30">
-						   
-						    <li>Preparing Charts</li>
-							<li>Story-writing </li>
-							<li>Mass Drill </li>
-							<li> Organizing Exhibition </li>
-							<li> Poetry Recitation </li>
-							<li> Science Quizzes </li>
-							<li> Essay Competition </li>
-							<li>Debate Competition</li>
-							<li> Extempore </li>
-							<li> Gardening </li>
-							<li> Dramatic </li>
-							<li> Workshops </li>
-							<li> Drawing Competition </li>
-							<li> Crafts and Origami</li>
-							<li> Book reading </li>
-							<li>Dance</li>
-							<li>Music</li>
-							<li> Yoga</li>
-							<li> Sports </li>
-							
-							
-							
-						</ul>
+                    <h1>Academics</h1>    
 						
 						
 						
